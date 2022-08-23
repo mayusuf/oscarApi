@@ -11,7 +11,7 @@
 
 # Installation 
 
-1. Upload all files in a directory in the server
+1. Clone all files from git "https://github.com/mayusuf/oscarApi" in the server
 
 2. run "composer install"
 
@@ -22,7 +22,7 @@
 5. run the app from the public folder. i.e. php -S 127.0.0.1:8080
 
 6. if you want to get info of any car or bunch of car then it is necessary to change 
-	the value of "is_active" column value 0 to 1
+	the value of "is_active" column of "cars" table to 1 
 
 7. the provided files are resid in the directory "uploads"
 
